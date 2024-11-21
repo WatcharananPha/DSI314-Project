@@ -23,6 +23,7 @@ Ensure you have Python 3.11 installed on your machine.
    ```bash
    .\DSI314\Scripts\activate
 
-4.**Confirm the virtual environment files are created : **
+4. **Confirm the virtual environment files are created : **
    ```bash
    ls
+
