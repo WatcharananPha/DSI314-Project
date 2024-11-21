@@ -1,0 +1,17 @@
+langchain
+langchain-community
+llama-parse
+fastembed
+python-dotenv
+langchain-groq
+chainlit
+fastembed
+sentence-transformers
+openai
+langchain-openai
+nltk
+joblib
+gdown
+faiss-cpu
+nest-asyncio
+unstructured[md]
