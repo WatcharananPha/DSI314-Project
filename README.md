@@ -15,7 +15,7 @@ Ensure you have Python 3.11 installed on your machine.
    ```bash
    python3.11 -m venv DSI314
 
-2. **Verify the Python version : **
+2. Verify the Python version :
    ```bash
    python --version
 
