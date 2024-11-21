@@ -35,6 +35,6 @@ Ensure it is present before proceeding.
    ```bash
    .\DSI314\Scripts\activate
 
-3.Install dependencies from the `requirements.txt` file :
+3. Install dependencies from the `requirements.txt` file :
    ```bash
    pip install -r requirements.txt
