@@ -27,3 +27,14 @@ Ensure you have Python 3.11 installed on your machine.
    ```bash
    ls
 
+## Install Required Packages 
+1. Check for the `requirements.txt` file in the project folder.
+Ensure it is present before proceeding.
+
+2. Activate the virtual environment :
+   ```bash
+   .\DSI314\Scripts\activate
+
+3.Install dependencies from the `requirements.txt` file :
+   ```bash
+   pip install -r requirements.txt
