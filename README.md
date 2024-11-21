@@ -11,7 +11,7 @@ Ensure you have Python 3.11 installed on your machine.
 
 ## Environment Setup
 
-1. **Create a virtual environment named `DSI314`:**
+1. Create a virtual environment named `DSI314`:
    ```bash
    python3.11 -m venv DSI314
 
@@ -19,11 +19,11 @@ Ensure you have Python 3.11 installed on your machine.
    ```bash
    python --version
 
-3. **Activate the virtual environment : **
+3. Activate the virtual environment :
    ```bash
    .\DSI314\Scripts\activate
 
-4. **Confirm the virtual environment files are created : **
+4. Confirm the virtual environment files are created :
    ```bash
    ls
 
